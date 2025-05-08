@@ -1,4 +1,4 @@
-# 👨‍💻 Olá! Eu sou o Lucas Silva Brandão
+# 👨‍💻 Olá! Eu sou Lucas Silva Brandão
 
 🎓 Estudante de Engenharia de Controle e Automação no IFMG  
 🚀 Apaixonado por desenvolvimento web, tecnologia e inovação
