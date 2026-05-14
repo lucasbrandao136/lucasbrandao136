@@ -2,7 +2,7 @@
 
 **Full Stack Developer** · Engenharia de Controle e Automação @ IFMG Betim
 
-Construo interfaces e APIs que funcionam de verdade. Stack principal em Vue/React no front, Node.js no back, com base sólida em sistemas embarcados e automação industrial.
+Construo aplicações web completas — do banco de dados à interface. Foco em código limpo, arquitetura bem definida e produtos que chegam ao fim.
 
 ---
 
